@@ -6,7 +6,7 @@ The Brain Tumor Detection System is a deep learning-based application developed 
 
 The system performs image preprocessing, data augmentation, feature extraction, model training, and classification. The trained model can accurately predict the presence and type of brain tumor from MRI images.
 
----
+
 
 ## 2. System Architecture
 
@@ -45,7 +45,7 @@ The proposed system follows the following architecture:
 
 MRI Images → Preprocessing → Data Augmentation → VGG16 Feature Extraction → Dense Layers → Softmax Classification → Tumor Prediction
 
----
+
 
 ## 3. Dataset Features
 
@@ -70,7 +70,7 @@ The dataset consists of brain MRI images categorized into multiple classes. Impo
 
 These techniques increase dataset diversity and improve model generalization.
 
----
+
 
 ## 4. Dataset Used
 
@@ -101,7 +101,7 @@ Testing/
 
 The dataset is stored in Google Drive and loaded into the model using TensorFlow image generators.
 
----
+
 
 ## 5. Methodology Used
 
@@ -164,7 +164,7 @@ The trained model is evaluated using:
 * ROC Curve
 * AUC Score
 
----
+
 
  # 6. Output
 
