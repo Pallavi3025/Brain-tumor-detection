@@ -1,5 +1,3 @@
-# Brain-tumor-detection-system
-Deep Learning Project using VGG16 and CNN for Brain Tumor Detection
 # Brain Tumor Detection System Using VGG16 Deep Learning Model
 
 ## 1. Overview
